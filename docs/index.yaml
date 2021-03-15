@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  imply:
+  - apiVersion: v1
+    appVersion: "2021.02"
+    created: "2021-03-15T11:45:24.627639-07:00"
+    description: Imply Manager
+    digest: 8c8ab30a8bb75f1449969bfd091e3a1235def06d178dcd15ff116ab94024f237
+    home: https://imply.io
+    icon: https://static.imply.io/imply-arrow.svg
+    keywords:
+    - druid
+    - imply
+    maintainers:
+    - email: contact@imply.io
+      name: Imply
+    name: imply
+    urls:
+    - https://studious-tribble-49c83228.pages.github.io/mz-helm-imply/imply-0.4.11.tgz
+    version: 0.4.11
+generated: "2021-03-15T11:45:24.617145-07:00"
