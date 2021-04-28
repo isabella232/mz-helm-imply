@@ -10,4 +10,4 @@ maintainers:
 - email: contact@imply.io
   name: Imply
 name: imply
-version: 2021.04
+version: "2021.04"
